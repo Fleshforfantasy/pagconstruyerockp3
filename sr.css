@@ -33,3 +33,44 @@ header{
 .cards{
     display: flex;
 }
+.D{
+    display: flex;
+}
+.car{
+	border: 2px solid #070776;
+	border-radius: 1rem;
+    display: flex;
+	justify-content: space-between;
+	margin: 50px auto;
+	width: 500px;
+}
+.car .cardbo{
+	padding: 0 0 1rem 1rem;
+	width: 80%;
+}
+.car .r{
+	background: red;
+	margin-right: 1.5rem;
+	position: relative;
+	width: 10%;
+}
+.car .c{
+	align-items: center;
+	background: white;
+	border: 2px solid #0e0e32;
+	border-radius: 50%;
+	box-shadow: 4px 4px 4px 0px #b7acac;
+	display: flex;
+	justify-content: center;
+	left: calc(50% - 36px);
+	position: absolute;
+	top: -30px;
+	width: 70px;
+}
+.car .c img{
+	transform: scale(80%);
+}
+.car .text{
+	color:#5A3DB2;
+	text-align: justify;
+}
