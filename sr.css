@@ -1,0 +1,35 @@
+h1{
+    color: rgb(94, 22, 136);
+}
+header{
+    background-color: rgb(136, 82, 185);
+}
+.titulo{
+    color: lemonchiffon;
+    background-color: lightgreen;
+    padding: 8px;
+    text-align: center;
+
+}
+.body{
+    font-style: italic;
+    text-align: center;
+    padding: 8px;
+}
+.pie{
+    color: aquamarine;
+    background-color: darkcyan;
+    text-align: center;
+    padding: 8px;
+}
+.card{
+    font-family: sans-serif;
+    box-shadow: 4px 4px 4px 4px;
+    width: 300px;
+    border-radius: 15px;
+    margin: 10px;
+    
+}
+.cards{
+    display: flex;
+}
