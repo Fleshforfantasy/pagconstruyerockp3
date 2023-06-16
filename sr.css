@@ -74,3 +74,50 @@ header{
 	color:#5A3DB2;
 	text-align: justify;
 }
+table{
+    
+    color: rgb(80, 177, 104);
+    border-collapse: collapse;
+    margin: 0 auto;
+    padding-top: 8px;
+    border-top: 8px;
+    border-left: 4px;
+    padding-left: 4px;
+}
+caption{
+    font-weight: bold;
+    font-size: 18px;
+}
+td{
+    background-color: rgb(99, 68, 145);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifdbb;
+    color: rgb(176, 206, 183);
+    border: solid rgb(52, 21, 165);
+    text-align: left;
+    font-size: 15px;
+    
+}
+.destacar{
+    background-color: rgb(151, 79, 79);
+    color: rgb(14, 107, 107);
+    text-align: center;
+   
+}
+th{
+   border:0;
+  
+  padding: 0px;
+  width: 170px;
+
+
+}
+.p{
+    font-size: 12px;
+    text-align: center;
+   
+}
+tr{
+    height: 40px;
+    width: 40px;
+    
+}
